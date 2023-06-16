@@ -15,9 +15,22 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project (Soccer Teams List) 
+https://github.com/ALORAMFER/AttractingContributors-SoccerTeams (Soccer Teams topic)
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+Goal - I want contributors to help me list some Soccer Teams
 
-# List of Hobby
+This is my favorite soccer team:
+
+0. Arsenal
+
+# Discussion 
+[#886](https://github.com/NAIST-SE/AttractingContributors/discussions/886)
+# List of Soccer Teams
+1. Manchester City FC
+2. FC Barcelona
+3. Sanfrecce Hiroshima
+4. Arsenal
+5. Arsenal
+6. Vissel Kobe
+7. Bayern München
