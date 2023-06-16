@@ -28,21 +28,6 @@ This is my favorite soccer team:
 [#886](https://github.com/NAIST-SE/AttractingContributors/discussions/886)
 # List of Soccer Teams
 1. Manchester City FC
-   
-3. FC Barcelona
-
-3.Sanfrecce Hiroshima
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
+2. FC Barcelona
+3. Sanfrecce Hiroshima
+4. 
