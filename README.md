@@ -32,4 +32,4 @@ This is my favorite soccer team:
 3. Sanfrecce Hiroshima
 4. Arsenal
 5. Arsenal
-
+6. Vissel Kobe
