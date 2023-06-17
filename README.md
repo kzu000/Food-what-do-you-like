@@ -34,3 +34,5 @@ This is my favorite soccer team:
 5. Arsenal
 6. Vissel Kobe
 7. Al-Nassr FC
+8. Bayern München
+9. PSG
