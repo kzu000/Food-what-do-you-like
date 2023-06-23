@@ -37,3 +37,4 @@ This is my favorite soccer team:
 8. Bayern München
 9. PSG
 10. NARA CLUB
+11. サンフレッチェ広島
